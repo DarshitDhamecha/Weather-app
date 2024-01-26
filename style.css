@@ -73,7 +73,7 @@ body {
 .details {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     padding: 0 20px;
     margin-top: 50px;
     flex-wrap: wrap;
